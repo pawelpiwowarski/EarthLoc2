@@ -1,0 +1,8 @@
+data/database
+data/queries
+logs
+__pycache__
+thesis_plots/
+data/best_trained_model.pt
+data/queries_intersections_with_db_2021.pt
+plots
